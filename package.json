@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  },
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "moment": "^2.29.4"
+  }
+}
